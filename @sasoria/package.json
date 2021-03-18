@@ -1,0 +1,19 @@
+{
+  "name": "@sasoria/react-dom",
+  "version": "16.6.3",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "An esm version of react-dom without bare imports",
+  "main": "source.bundle.production.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c rollup.config.js"
+  },
+  "author": "sasoria",
+  "license": "MIT",
+  "devDependencies": {
+    "@eik/rollup-plugin": "4.0.2",
+    "rollup": "2.41.5"
+  }
+}
