@@ -1,4 +1,4 @@
-import React from "https://neik.dev.intern.nav.no/npm/@pika/react/v16/package/source.production.js";
+import React from "react";
 /** @license React v16.12.0
  * react-dom.development.js
  *

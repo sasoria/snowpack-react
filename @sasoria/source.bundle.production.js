@@ -1,4 +1,4 @@
-import React from "https://neik.dev.intern.nav.no/npm/@pika/react/v16/package/source.production.js";
+import React from 'https://neik.dev.intern.nav.no/npm/@pika/react/v16/package/source.production.js';
 
 /** @license React v16.12.0
  * react-dom.development.js
@@ -6065,18 +6065,4 @@ const {
 } = ReactDOM;
 
 export default ReactDOM;
-export {
-  __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED,
-  createPortal,
-  findDOMNode,
-  flushSync,
-  hydrate,
-  render,
-  unmountComponentAtNode,
-  unstable_batchedUpdates,
-  unstable_createPortal,
-  unstable_createRoot,
-  unstable_flushControlled,
-  unstable_interactiveUpdates,
-  unstable_renderSubtreeIntoContainer,
-};
+export { __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED, createPortal, findDOMNode, flushSync, hydrate, render, unmountComponentAtNode, unstable_batchedUpdates, unstable_createPortal, unstable_createRoot, unstable_flushControlled, unstable_interactiveUpdates, unstable_renderSubtreeIntoContainer };
