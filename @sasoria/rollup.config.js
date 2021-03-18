@@ -14,10 +14,7 @@ export default {
       ],
     }),
   ],
-  output: [
-    {
-      file: "source.bundle.production.js",
-      format: "esm",
-    },
-  ],
+  output: {
+    file: "source.bundle.production.js",
+  },
 };
